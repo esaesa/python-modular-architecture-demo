@@ -190,9 +190,9 @@ Since this is an educational project, please focus on:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
-The MIT License is a permissive open-source license that allows for free use, modification, and distribution of the code, both for personal and commercial purposes, with minimal restrictions. The only requirement is that the original copyright notice and license text be included in all copies or substantial portions of the software.
+The Apache License 2.0 is a permissive open-source license that allows for free use, modification, and distribution of the code, both for personal and commercial purposes. It provides additional protections compared to the MIT License, including an express grant of patent rights from contributors to users and a defense clause against patent litigation. The license requires preservation of the copyright notice and disclaimer, but does not require reproduction of the license text in distributions of the software.
 
 ---
 
